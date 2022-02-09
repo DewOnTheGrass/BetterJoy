@@ -37,7 +37,8 @@ Go to the [Releases tab](https://github.com/Davidobot/BetterJoy/releases/)!
 * As of version 3, you can use the pro controller and Joycons as normal xbox controllers on your PC - try it with Steam!
 
 # More Info
-Check out the [wiki](https://github.com/Davidobot/BetterJoy/wiki)! There, you'll find all sorts of goodness such as the changelog, description of app settings, the FAQ and Problems page, and info on how to make BetterJoy work with Steam *better*.
+Before filing a bug report, be sure to check the "BetterJoyForCemu.config" file in your BetterJoy folder! There's a good chance that your issue has a solution tucked away in there.
+Alternatively, check out the [wiki](https://github.com/Davidobot/BetterJoy/wiki)! There, you'll find all sorts of goodness such as the changelog, description of app settings, the FAQ and Problems page, and info on how to make BetterJoy work with Steam *better*.
 
 # Connecting and Disconnecting the Controller
 ## Bluetooth Mode
